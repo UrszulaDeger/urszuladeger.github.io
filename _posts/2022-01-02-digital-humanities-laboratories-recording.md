@@ -14,7 +14,7 @@ categories:
     - Workshop
 ---
 
-The recording of the “Digital Humanities Laboratories: Communities of/in practice” panel discussion has been published [online](https://www.youtube.com/watch?v=Be1pwnlSI70&list=PL2iFGgDeAFi0wjhOfqhZlJaZK5_UwbGIt&index=13&t=309s). It was a great conversation about a sense of DH lab community and actions towards gender and racial equity and diversity in DH labs. I chaired the discussion together with Dr Christopher Thomson (University of Canterbury) at the DHA2021, Australasian Association for Digital Humanities Conference “Ka Renarena Te Taukaea | Creating Communities” host by Te Whare Wānanga o Waitaha | the University of Canterbury in Aotearoa New Zealand (22-25 November, 2021).
+The recording of the “Digital Humanities Laboratories: Communities of/in practice” panel discussion has been published [online](https://www.youtube.com/watch?v=Be1pwnlSI70&list=PL2iFGgDeAFi0wjhOfqhZlJaZK5_UwbGIt&index=13&t=309s). It was a great conversation about a sense of DH lab community and actions towards gender and racial equity and diversity in DH labs. I chaired the discussion together with Dr Christopher Thomson (University of Canterbury) at the DHA2021, Australasian Association for Digital Humanities Conference “Ka Renarena Te Taukaea - Creating Communities” host by Te Whare Wānanga o Waitaha - the University of Canterbury in Aotearoa New Zealand (22-25 November, 2021).
 
 Check it out here:
 

@@ -18,7 +18,7 @@ pagination:
   <div class="header-bar">
     <h2>{{ site.blog_description }}</h2>
   </div>
-  
+
 <!-- 
   {% if site.display_tags %}
   <div class="tag-list">
@@ -42,7 +42,17 @@ pagination:
     {% endfor %}
   </div> -->
 
-  {% if site.display_categories %}
+  <div class="tag-list">
+  {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+  {% for year in postsByYear %}
+  &nbsp;&nbsp;<i class="fas fa-calendar fa-sm"></i> 
+  <a href="{{ year.name | prepend: '/blog/' | prepend: site.baseurl}}">
+      {{ year.name }} </a>
+  {% endfor %}
+  <p>
+  </div>
+  
+  <!-- {% if site.display_categories %}
   <div class="tag-list">
     <ul class="p-0 m-0">
       {% for category in site.display_categories %}
@@ -55,7 +65,7 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -84,7 +94,13 @@ pagination:
           {% endif %}
         {% endif %}
       </h3>
-      <p>{{ post.description }}</p>
+      <p>
+        <!-- {{ post.description }} -->
+        {{ post.excerpt }}
+          {% if post.content.size > post.excerpt.size %}
+            <a href="{{ post.permalink }}"><b>Continue reading...</b></a>
+          {% endif %}
+      </p>
       <p class="post-meta">
         {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %-d, %Y' }}

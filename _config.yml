@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: urszuladeger # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: urszuladeger # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -145,12 +145,12 @@ giscus:
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# # External sources.
+# # If you have blog posts published on medium.com or other exteranl sources,
+# # you can display them in your blog by adding a link to the RSS feed.
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -247,6 +247,8 @@ jekyll-archives:
 display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will be dispalyed on the front page of your blog
 
 display_categories: ['Digital humanities', 'Infrastructure'] # this tags will be dispalyed on the front page of your blog
+
+# excerpt_separator: <!--more-->
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
