@@ -43,13 +43,25 @@ pagination:
   </div> -->
 
   <div class="tag-list">
+    <ul>
   {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-  &nbsp;&nbsp;<i class="fas fa-calendar fa-sm"></i> 
+  <!-- <li> -->
+  <i class="fas fa-calendar fa-sm"></i> 
   <a href="{{ year.name | prepend: '/blog/' | prepend: site.baseurl}}">
       {{ year.name }} </a>
+  <!-- </li> -->
+
+  {% unless forloop.last %}
+  &nbsp;&bull;&nbsp;
+  {% endunless %}
+
+  <!-- {% unless forloop.last %}
+  <p>&bull;</p>
+  {% endunless %} -->
+
   {% endfor %}
-  <p>
+  </ul>
   </div>
   
   <!-- {% if site.display_categories %}
