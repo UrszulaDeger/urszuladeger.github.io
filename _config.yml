@@ -248,6 +248,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 display_categories: ['Digital humanities', 'Infrastructure'] # this tags will be dispalyed on the front page of your blog
 
+display_years: ['2022', '2021', '2020', '2019', '2018', '2017', '2016'] # this tags will be dispalyed on the front page of your blog
+
 # excerpt_separator: <!--more-->
 
 # -----------------------------------------------------------------------------
