@@ -84,7 +84,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: wellcome.org/what-we-do/discovery-research # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -249,7 +249,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 display_categories: ['Digital humanities', 'Infrastructure'] # this tags will be dispalyed on the front page of your blog
 
-display_years: ['2022', '2021', '2020', '2019', '2018', '2017', '2016'] # this tags will be dispalyed on the front page of your blog
+display_years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016'] # this tags will be dispalyed on the front page of your blog
 
 # excerpt_separator: <!--more-->
 
@@ -259,8 +259,8 @@ display_years: ['2022', '2021', '2020', '2019', '2018', '2017', '2016'] # this t
 
 scholar:
 
-  last_name: [Deger]
-  first_name: [Aydin]
+  last_name: [Pawlicka-Deger]
+  first_name: [Urszula]
 
   style: apa
   locale: en
