@@ -37,8 +37,6 @@ M. Oiva and U. Pawlicka-Deger, *Lab and Slack. Situated Research Practices in Di
 
 U. Pawlicka, *Data, Collaboration, Laboratory: Bringing Concepts from Science into Humanities Practice*, “English Studies” 98.5 (2017): 526-541. Doi: [10.1080/0013838X.2017.1332022](https://www.tandfonline.com/doi/abs/10.1080/0013838X.2017.1332022).
 
-U. Pawlicka, [*Humanistyka: pracownia, centrum czy laboratorium?* ](http://rcin.org.pl/Content/64794/WA248_84076_P-I-2524_pawlicka-humanistyka_o.pdf)\[*The Humanities: Office, Center or Laboratory?*\], “Teksty Drugie/ Second Texts” 1 (2017): 314–333.
-
 U. Pawlicka, [*Digital Literature. Current State of Research in Poland*](https://depot.ceon.pl/bitstream/handle/123456789/14306/16_Pawlicka_Digital.pdf?sequence=1&isAllowed=y), “Teksty Drugie/ Second Texts” 2 (2016): 242-261.
 
 U. Pawlicka, *Visualizing Electronic Literature Collections,* “CLCWeb: Comparative Literature and Culture” 18.1 (2016): [http://dx.doi.org/10.7771/1481-4374.2902](https://docs.lib.purdue.edu/clcweb/vol18/iss1/3/).

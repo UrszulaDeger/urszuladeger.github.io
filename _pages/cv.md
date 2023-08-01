@@ -10,7 +10,7 @@ guid: 'http://pawlickadeger.com/?page_id=635'
 ---
 
 **Urszula Pawlicka-Deger**  
-Date of writing the CV: 31.07.2023  
+Date of writing the CV: 01.08.2023  
 Main email contacts: pawlickadeger(at)gmail.com; U.Pawlicka-Deger@wellcome.org  
 
 [dhinfra.org](https://dhinfra.org) (research blog), [ORCID ID](https://orcid.org/0000-0002-2626-4675)
@@ -52,12 +52,12 @@ Main email contacts: pawlickadeger(at)gmail.com; U.Pawlicka-Deger@wellcome.org
 
 **Other academic merits**
 
-- Reviewer, Routledge, Publisher of Professional &amp; Academic Books (August-September 2021)
-- Member of the Executive Board of [Global Outlook::Digital Humanitie](http://www.globaloutlookdh.org)s, a Special Interest Group of the Alliance of Digital Humanities Organisations (from Jan 2021)
-- Member of the [Critical Infrastructure Studies collective](https://cistudies.org/ci-collective/) (from Nov 2020)
+- Reviewer, Routledge, Publisher of Professional &amp; Academic Books (2021)
+- Member of the Executive Board of [Global Outlook::Digital Humanitie](http://www.globaloutlookdh.org)s, a Special Interest Group of the Alliance of Digital Humanities Organisations (2021-2022)
+- Member of the [Critical Infrastructure Studies collective](https://cistudies.org/ci-collective/) (from 2020)
 - Editor, Digital Humanities Quarterly special issue: “Lab and Slack. Situated Research Practices in Digital Humanities” (2020, 14.3), <http://www.digitalhumanities.org/dhq/vol/14/3/index.html>
-- Reviewer, Digital Scholarship in the Humanities journal, Oxford University Press (October 2019 to present)
-- Reviewer, Digital Humanities Quarterly journal, ADHO (May 2019 to present)
+- Reviewer, Digital Scholarship in the Humanities journal, Oxford University Press (from 2019)
+- Reviewer, Digital Humanities Quarterly journal, ADHO (from 2019)
 
 **Talks (selected)**
 
@@ -68,7 +68,7 @@ Main email contacts: pawlickadeger(at)gmail.com; U.Pawlicka-Deger@wellcome.org
 - U. Pawlicka-Deger, “Why Study Laboratories in the Digital Humanities?”. The talk at the workshop “Rebuilding Laboratories”. The Institute of Advanced Studies at the University of Birmingham, UK – lead organiser of the event (19 November 2019)
 - U. Pawlicka-Deger, “Place Matters: Exploring New Sites of the Humanities Practices”. The Institute of Advanced Studies at the University of Birmingham, UK (13 November 2019)
 - U. Pawlicka-Deger, “A Laboratory as Critical Infrastructure in the Humanities”. The keynote at the workshop “Humanities Laboratories: Critical Infrastructures and Knowledge Experiments”. The Department of Digital Humanities, King’s College London, UK. (23 May 2019)
-- U. Pawlicka-Deger and M. Oiva, “Lab and Slack. Situated Research Practices in Digital Humanities”. Digital Humanities Research Seminar at the Helsinki Centre for Digital Humanities (Heldig), University of Helsinki (04 April 2019)
+- U. Pawlicka-Deger and M. Oiva, “Lab and Slack. Situated Research Practices in Digital Humanities”. Digital Humanities Research Seminar at the Helsinki Centre for Digital Humanities (Heldig), University of Helsinki, Finland (04 April 2019)
 
 **Conference presentations (selected)**
 
