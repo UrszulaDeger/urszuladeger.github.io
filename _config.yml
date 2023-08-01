@@ -84,7 +84,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: wellcome.org/what-we-do/discovery-research # work page URL
+work_url: #wellcome.org/what-we-do/discovery-research # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
